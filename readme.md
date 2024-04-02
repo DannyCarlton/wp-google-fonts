@@ -1,3 +1,4 @@
+[Below is mostly what was in the original repo. I wil be changing it as I try to improve this plugin.]
 ## WP Google Fonts ##
 Tags: Google fonts, fonts, font, type, free fonts, typography, theme, admin, plugin, css, design, plugin, template, page, posts, links, Google
 Requires at least: 2.0.2
