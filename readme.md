@@ -108,14 +108,9 @@ You can install the plugin from the "Add New" tab under the plugins section of y
 
 ### Frequently Asked Questions ###
 
-= How do I learn more about Google Fonts? =
+#### How do I learn more about Google Fonts? ####
 
 Visit the Google Font Directory website at http://code.google.com/webfonts.
-
-= Who can I contact with questions?" =
-
-You can contact me (Adrian3) at http://adrian3.com/contact
-
 
 ### Screenshots ###
 1. This screenshot shows the "settings" panel for the WP Google Fonts plugin.
